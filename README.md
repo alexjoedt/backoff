@@ -3,7 +3,7 @@
 [![Go Reference](https://pkg.go.dev/badge/github.com/alexjoedt/backoff.svg)](https://pkg.go.dev/github.com/alexjoedt/backoff)
 [![Go Report Card](https://goreportcard.com/badge/github.com/alexjoedt/backoff)](https://goreportcard.com/report/github.com/alexjoedt/backoff)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Coverage](https://img.shields.io/badge/coverage-93.8%25-brightgreen)](https://github.com/alexjoedt/backoff)
+[![codecov](https://codecov.io/gh/alexjoedt/backoff/branch/main/graph/badge.svg)](https://codecov.io/gh/alexjoedt/backoff)
 
 Yet another Go backoff library, because sometimes you need to retry things and the existing ones didn't quite fit what I needed.
 
